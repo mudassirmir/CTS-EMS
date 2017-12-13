@@ -1,0 +1,28 @@
+.navbar-brand img {
+   width: 190px;
+}
+/* Media Queries
+   min 992,768
+   max 1200 992 768 480  */
+
+@media (min-width: 992px){
+    #sidebar {
+        margin-top: 56px;
+    }
+}
+@media (min-width: 768px) {
+
+}
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 992px) {
+
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 480px) {
+
+}
+
